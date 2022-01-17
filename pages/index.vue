@@ -36,7 +36,7 @@
 
     <v-row no-gutters>
       <v-card
-        v-for="n in 5"
+        v-for="n in 6"
         :key="n"
         class="pl-11 mx-5 my-2"
       >
@@ -71,7 +71,7 @@
 
     <v-row no-gutters>
       <v-card
-        v-for="n in 5"
+        v-for="n in 6"
         :key="n"
         class="pl-11 mx-5 my-2"
       >
@@ -107,7 +107,7 @@
 
     <v-row no-gutters>
       <v-card
-        v-for="n in 5"
+        v-for="n in 6"
         :key="n"
         class="pl-11 mx-5 my-2"
       >
